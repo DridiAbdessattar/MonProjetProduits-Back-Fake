@@ -1,0 +1,19 @@
+{
+  "Produit": [
+    {
+      "id": 100,
+      "libelle": "Produit01",
+      "prixUnitaire": 100
+    },
+    {
+      "id": 300,
+      "libelle": "Produit03",
+      "prixUnitaire": 100
+    },
+    {
+      "id": 400,
+      "libelle": "*****Produit04",
+      "prixUnitaire": 110
+    }
+  ]
+}
